@@ -6,7 +6,7 @@ import Header from './components/header/Header';
 function App() {
   return (
     
-    <div className="main-container">Language Card Project with react
+    <div className="main-container">Language Card Project with React
       <Header />
       <Cards />
     </div>
